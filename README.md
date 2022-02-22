@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Palladium**
 
-- 👨‍💻 All of my projects are available at [github.com/pPetrBednar](github.com/pPetrBednar)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/pPetrBednar" target="_blank" rel="noreferrer">github.com/pPetrBednar</a>
 
 - 📫 How to reach me **ppetrbednar@gmail.com**
 
-- 📄 Know about my experiences [ppetrbednar.github.io](ppetrbednar.github.io)
+- 📄 Know about my experiences <a href="https://ppetrbednar.github.io" target="_blank" rel="noreferrer">ppetrbednar.github.io</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
