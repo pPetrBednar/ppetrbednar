@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Petr Bednář</h1>
 <h3 align="center">A programmer from Czech Republic</h3>
 
-- 🔭 I’m currently working on **Palladium**
+- 🔭 I’m currently working on **Pallidium**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/pPetrBednar" target="_blank" rel="noreferrer">github.com/pPetrBednar</a>
 
-- 📫 How to reach me **ppetrbednar@gmail.com**
+- 📫 How to reach me **p.petr.bednar@gmail.com**
 
 - 📄 Know about my experiences <a href="https://ppetrbednar.github.io" target="_blank" rel="noreferrer">ppetrbednar.github.io</a>
 
